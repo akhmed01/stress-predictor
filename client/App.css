@@ -28,7 +28,6 @@ body {
   color: var(--text-dark);
 }
 
-/* --- Үндсэн Карт --- */
 .card {
   background: rgba(255, 255, 255, 0.95);
   width: 100%;
@@ -42,7 +41,6 @@ body {
   backdrop-filter: blur(10px);
 }
 
-/* --- Header хэсэг --- */
 header {
   background: linear-gradient(135deg, #667eea 0%, #d0e911 100%);
   color: white;
@@ -64,7 +62,6 @@ header p {
   font-weight: 300;
 }
 
-/* --- Агуулгын хэсэг --- */
 .content {
   display: flex;
   flex-wrap: wrap;
@@ -76,7 +73,6 @@ header p {
   min-width: 320px;
 }
 
-/* --- Форм дизайн --- */
 .predictor-form {
   border-right: 1px solid rgba(0,0,0,0.05);
   background-color: #fff;
